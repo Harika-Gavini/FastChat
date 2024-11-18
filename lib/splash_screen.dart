@@ -14,7 +14,7 @@ class SplashScreen extends StatelessWidget {
       backgroundColor: Colors.blue,
       body: Center(
         child: Text(
-          'Welcome to ',
+          'Welcome to FastChat',
           style: TextStyle(
             fontSize: 24,
             fontWeight: FontWeight.bold,
